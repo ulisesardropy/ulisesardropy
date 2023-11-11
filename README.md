@@ -37,7 +37,7 @@ Me fascina la convergencia de la tecnología y la creatividad para dar vida a pr
 | Alias                | Funcion                         |
 |----------------------|---------------------------------|
 |alias rm= "trashh"    | Todo lo que se elimina entra en papelera|
-|alias cl = 'Clear'    |Limpia la terminal               |
+|alias cl = "Clear"    |Limpia la terminal               |
 #### guardar alias permanente
 > **Bash** se hace en el archivo **.bashrc**
 > **~Shell** debe hacerse en **.zshrc**
